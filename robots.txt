@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://ianwarner.com/sitemap.xml
+Disallow:
